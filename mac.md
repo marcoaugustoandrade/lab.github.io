@@ -1,4 +1,4 @@
-# Configuração de um computador com Ubuntu
+# Configuração de um computador com MacOS
 
 1) Criar usuário
 
