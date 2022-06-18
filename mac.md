@@ -2,9 +2,9 @@
 
 1) Criar usuário
 
-2) Fazer login com o novo usuário e rodar o `script_ubuntu.sh`
+2) Fazer login com o novo usuário e rodar o `script_mac.sh`
 ```
-wget https://lab.fslab.dev/script_ubuntu.sh
+wget https://lab.fslab.dev/script_mac.sh
 sudo sh script
 ```
 
