@@ -1,2 +1,3 @@
-[Configuração MacOS](mac.html)
-[Configuração Ubuntu](ubuntu.html)
+# FSLab
+- [Configuração MacOS](mac.html)
+- [Configuração Ubuntu](ubuntu.html)
