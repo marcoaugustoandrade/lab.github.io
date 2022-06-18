@@ -2,11 +2,13 @@
 
 1) Criar usuário
 ```
-adduser nome.sobrenome
-usermod -aG sudo nome.sobrenome
+sudo adduser nome
+sudo usermod -aG sudo nome
 ```
 
-2) Fazer login com o novo usuário e rodar o `script_ubuntu.sh`
+2) Logar com o novo usuário
+
+3) Baixar e executar o `script_ubuntu.sh`
 ```
 wget https://lab.fslab.dev/script_ubuntu.sh
 sudo sh script
@@ -24,3 +26,8 @@ ssh-keygen
 ```
 
 5) Subir a chave no GitLab
+```
+cat ~/.ssh/id_rsa.pub
+```
+
+Copie o conteúdo para https://gitlab.fslab.dev
