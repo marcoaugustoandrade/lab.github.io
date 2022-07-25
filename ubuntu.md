@@ -11,7 +11,7 @@ sudo usermod -aG sudo nome
 3) Baixar e executar o `script_ubuntu.sh`
 ```
 wget https://lab.fslab.dev/script_ubuntu.sh
-sudo sh script
+sudo sh script.sh
 ```
 
 3) Configurar o git
